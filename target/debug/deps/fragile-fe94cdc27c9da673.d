@@ -1,0 +1,11 @@
+/home/phaedrus/.GH/Qompass/Rust/Qxet/target/debug/deps/fragile-fe94cdc27c9da673.d: /home/phaedrus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fragile-2.0.0/src/lib.rs /home/phaedrus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fragile-2.0.0/src/errors.rs /home/phaedrus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fragile-2.0.0/src/fragile.rs /home/phaedrus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fragile-2.0.0/src/registry.rs /home/phaedrus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fragile-2.0.0/src/semisticky.rs /home/phaedrus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fragile-2.0.0/src/sticky.rs /home/phaedrus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fragile-2.0.0/src/thread_id.rs
+
+/home/phaedrus/.GH/Qompass/Rust/Qxet/target/debug/deps/libfragile-fe94cdc27c9da673.rmeta: /home/phaedrus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fragile-2.0.0/src/lib.rs /home/phaedrus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fragile-2.0.0/src/errors.rs /home/phaedrus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fragile-2.0.0/src/fragile.rs /home/phaedrus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fragile-2.0.0/src/registry.rs /home/phaedrus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fragile-2.0.0/src/semisticky.rs /home/phaedrus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fragile-2.0.0/src/sticky.rs /home/phaedrus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fragile-2.0.0/src/thread_id.rs
+
+/home/phaedrus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fragile-2.0.0/src/lib.rs:
+/home/phaedrus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fragile-2.0.0/src/errors.rs:
+/home/phaedrus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fragile-2.0.0/src/fragile.rs:
+/home/phaedrus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fragile-2.0.0/src/registry.rs:
+/home/phaedrus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fragile-2.0.0/src/semisticky.rs:
+/home/phaedrus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fragile-2.0.0/src/sticky.rs:
+/home/phaedrus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fragile-2.0.0/src/thread_id.rs:

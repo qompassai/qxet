@@ -1,0 +1,1 @@
+/home/phaedrus/.GH/Qompass/Rust/Qxet/target/release/libfile_utils.rlib: /home/phaedrus/.GH/Qompass/Rust/Qxet/file_utils/src/file_metadata.rs /home/phaedrus/.GH/Qompass/Rust/Qxet/file_utils/src/lib.rs /home/phaedrus/.GH/Qompass/Rust/Qxet/file_utils/src/privilege_context.rs /home/phaedrus/.GH/Qompass/Rust/Qxet/file_utils/src/safe_file_creator.rs

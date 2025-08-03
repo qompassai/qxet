@@ -1,0 +1,1 @@
+/home/phaedrus/.GH/Qompass/Rust/Qxet/target/release/libxet_threadpool.rlib: /home/phaedrus/.GH/Qompass/Rust/Qxet/xet_threadpool/src/errors.rs /home/phaedrus/.GH/Qompass/Rust/Qxet/xet_threadpool/src/lib.rs /home/phaedrus/.GH/Qompass/Rust/Qxet/xet_threadpool/src/threadpool.rs

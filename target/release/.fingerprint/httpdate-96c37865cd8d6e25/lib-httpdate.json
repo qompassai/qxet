@@ -1,0 +1,1 @@
+{"rustc":11410426090777951712,"features":"[]","declared_features":"[]","target":12509520342503990962,"profile":11516776892251989771,"path":13561884014875795679,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"release/.fingerprint/httpdate-96c37865cd8d6e25/dep-lib-httpdate","checksum":false}}],"rustflags":["--cfg","tokio_unstable"],"config":18319052281956343755,"compile_kind":0}
