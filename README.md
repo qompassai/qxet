@@ -4,6 +4,8 @@ QXet: Quality AI eXchange — Qompass AI's Rust work on the Xet
 content-addressed storage protocol (the deduplicated chunk store behind
 Hugging Face Hub file transfers).
 
+<a href="./LICENSE"><img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="License: Apache 2.0"></a>
+
 ## Repository state: fragments, not yet a buildable crate
 
 This repo currently holds two source fragments salvaged from a larger
@@ -53,3 +55,7 @@ for whoever does the restoration.
 ## Memory
 
 Project memory lives in `.ai/memory/` (see `AGENTS.md` for the protocol).
+
+## License
+
+This project is licensed under the [Apache License, Version 2.0](./LICENSE).
