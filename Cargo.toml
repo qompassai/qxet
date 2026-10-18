@@ -1,13 +1,12 @@
-# SCAFFOLD — this workspace does NOT build yet.
-# The fragments in hf_xet/ and data/ reference workspace crates and
-# modules that are not in this repo. See README.md, "Repository state",
-# for the exact missing pieces. This manifest records the intended
-# workspace shape only; remove this banner when the build is real.
-
 [workspace]
 resolver = "2"
-members = ["hf_xet", "data"]
+members = ["crates/qxet-core", "crates/qxet-cli"]
+exclude = ["hf_xet", "data"]
 
 [workspace.package]
 edition = "2021"
 license = "Apache-2.0"
+version = "0.1.0"
+
+[profile.release]
+lto = "thin"
