@@ -35,8 +35,12 @@ enum Command {
     /// reports. Pass --apply to actually delete.
     Gc {
         /// Actually delete orphan chunks (default is a dry run).
-        #[arg(long)]
+        #[arg(long, conflicts_with = "dry_run")]
         apply: bool,
+        /// Report what would be removed without deleting (the
+        /// default; the flag exists for scripts that want to say so).
+        #[arg(long)]
+        dry_run: bool,
     },
     /// Reassemble an artifact, verifying every chunk hash.
     Get {
@@ -157,7 +161,7 @@ fn run(cli: Cli) -> Result<(), QxetError> {
                 })
             }
         }
-        Command::Gc { apply } => {
+        Command::Gc { apply, dry_run: _ } => {
             let store = open_store(&cli.store)?;
             let report = store.gc(!apply)?;
             if *apply {

@@ -85,6 +85,13 @@ fn cli_full_workflow() {
     assert!(out.status.success());
     assert!(stdout(&out).contains("dry run"), "gc: {}", stdout(&out));
     assert_eq!(chunk_files(dir).len(), before);
+    // The explicit --dry-run spelling works too, and conflicts with
+    // --apply.
+    let out = qxet(dir, &["gc", "--dry-run"]);
+    assert!(out.status.success());
+    assert!(stdout(&out).contains("dry run"));
+    let out = qxet(dir, &["gc", "--apply", "--dry-run"]);
+    assert!(!out.status.success(), "--apply + --dry-run must conflict");
 }
 
 #[test]
