@@ -1,6 +1,6 @@
 # qxet — Quality AI eXchange: Greenfield Design
 
-**Status:** Draft for build (2026-10-05). Matt approved greenfield scope.
+**Status:** Draft for build (2026-10-05). Owner approved greenfield scope.
 
 ## Vision
 
@@ -85,9 +85,9 @@ files, 0-byte chunks, concurrent puts.
 5. CLI wiring with clap; integration tests (assert_cmd or manual).
 6. `--update-memory` + handoff via bloch; docs (README with real usage).
 7. Build + clippy + tests green on primo (nightly per phlow rules? No —
-   qxet is its own project; stable Rust unless Matt says otherwise).
+   qxet is its own project; stable Rust unless Owner says otherwise).
 
-## Open questions for Matt (non-blocking)
+## Open questions for Owner (non-blocking)
 
 - Remote protocol in v0.2: dumb HTTP store vs. something smarter?
 - Python bindings priority: v0.2 or later?

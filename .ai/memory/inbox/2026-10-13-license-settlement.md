@@ -1,8 +1,8 @@
 # 2026-10-13 — License settled: Apache-2.0
 
-- Matt ruled Apache-2.0 (2026-10-13), closing the open license question
+- Owner ruled Apache-2.0 (2026-10-13), closing the open license question
   recorded in the 2026-10-11 overnight-pass inbox note and in
-  `current.md` ("License state is unresolved... Awaiting Matt's call").
+  `current.md` ("License state is unresolved... Awaiting Owner's call").
 - Landed in one commit: `LICENSE` added (canonical Apache-2.0 text,
   appendix `Copyright 2025 Qompass AI`, byte-identical to the normalized
   qompassai language repos); `CITATION.cff` license `Q-CDA-1.0` →

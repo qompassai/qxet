@@ -19,7 +19,7 @@ Facts established during the overnight completion pass (verified on primo):
   `.bacon-locations` and ignored it.
 - `current.md` carried the language-mirror template; refreshed to
   describe qxet itself.
-- Open question for Matt: no LICENSE file exists in the repo, and
+- Open question for Owner: no LICENSE file exists in the repo, and
   `.zenodo.json` claims Q-CDA-1.0 while decisions.md records the org's
   Apache-2.0 normalization. Not resolved unilaterally.
 - SCIP: no Rust indexer is installed on primo (only scip-lua,

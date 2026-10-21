@@ -19,9 +19,9 @@ storage for large binary artifacts.
   `.zenodo.json` / `CITATION.cff` agree. The earlier "license
   unresolved" note is retired.
 - v0.2 (remotes, Hub protocol, Python bindings) is unstarted; the
-  open questions in DESIGN.md remain Matt's calls.
+  open questions in DESIGN.md remain Owner's calls.
 
 ## Standing rules
 
-- Code changes are pushed only under Matt's explicit direction
+- Code changes are pushed only under Owner's explicit direction
   (the 2026-10-17 night authorization covered the v0.1 landing).
